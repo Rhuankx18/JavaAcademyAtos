@@ -1,0 +1,64 @@
+Apr 28, 2023 3:22:43 PM pacote.Principal main
+INFO: Log de informação
+Apr 28, 2023 3:22:43 PM pacote.Principal main
+WARNING: Log de Aviso
+Apr 28, 2023 3:22:43 PM pacote.Principal main
+INFO: 
+ O programa iniciou a chamada da calculadora
+Apr 28, 2023 3:22:54 PM pacote.Principal main
+INFO: 
+ O programa terminou as operaçoões
+Apr 28, 2023 3:24:44 PM pacote.Principal main
+INFO: Log de informação
+Apr 28, 2023 3:24:44 PM pacote.Principal main
+WARNING: Log de Aviso
+Apr 28, 2023 3:24:44 PM pacote.Principal main
+INFO: 
+ O programa iniciou a chamada da calculadora
+May 02, 2023 7:52:12 PM pacote.Principal main
+INFO: Log de informação
+May 02, 2023 7:52:13 PM pacote.Principal main
+WARNING: Log de Aviso
+May 02, 2023 7:52:13 PM pacote.Principal main
+INFO: 
+ O programa iniciou a chamada da calculadora
+May 02, 2023 7:52:24 PM pacote.Principal main
+INFO: 
+ O programa terminou as operaçoões
+May 02, 2023 7:52:36 PM pacote.Principal main
+INFO: Log de informação
+May 02, 2023 7:52:36 PM pacote.Principal main
+WARNING: Log de Aviso
+May 02, 2023 7:52:36 PM pacote.Principal main
+INFO: 
+ O programa iniciou a chamada da calculadora
+May 02, 2023 7:52:45 PM pacote.Principal main
+INFO: 
+ O programa terminou as operaçoões
+May 02, 2023 8:27:23 PM pacote.Principal main
+INFO: 
+ O programa iniciou a chamada da calculadora
+May 02, 2023 8:27:36 PM pacote.Principal main
+INFO: 
+ O programa terminou as operaçoões
+May 02, 2023 8:27:59 PM pacote.Principal main
+INFO: 
+ O programa terminou as operaçoões
+May 02, 2023 9:02:55 PM pacote.Principal main
+INFO: Log de informação
+May 02, 2023 9:15:55 PM pacote.Principal main
+INFO: Log de início do programa
+May 02, 2023 9:15:55 PM pacote.Principal main
+INFO: 
+ A calculadora foi iniciada
+May 02, 2023 9:16:00 PM pacote.Principal main
+INFO: O operador selecionado foi o: -
+May 02, 2023 9:16:04 PM pacote.Principal main
+INFO: 
+ O valor incluso no primeiro valor foi: 3.0
+May 02, 2023 9:16:08 PM pacote.Principal main
+INFO: 
+ O valor incluso no segundo valor foi: 6.0
+May 02, 2023 9:16:08 PM pacote.Principal main
+INFO: 
+ A calculadora chegou no seu resultado: 3.0 e encerrou seu processo, caso queira realizar outra solicitação, abrir processo novamente.
