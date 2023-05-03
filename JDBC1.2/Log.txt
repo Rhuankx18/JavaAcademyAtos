@@ -1,0 +1,62 @@
+May 03, 2023 11:18:03 AM pacote.Teste main
+INFO: Log de informação
+May 03, 2023 11:18:03 AM pacote.Teste main
+WARNING: Log de Aviso
+May 03, 2023 11:18:03 AM pacote.Teste main
+SEVERE: Log Severo
+May 03, 2023 2:26:48 PM pacote.Teste main
+WARNING: Aplicação JDBC iniciada
+May 03, 2023 2:26:48 PM pacote.Teste main
+INFO: Dado seguimento da ferramenta para inserção de usuários no banco de dados
+May 03, 2023 2:26:56 PM pacote.Teste main
+INFO: Usuário inserido no banco de dados: grimon
+May 03, 2023 2:27:08 PM pacote.Teste main
+INFO: E-mail inserido no banco de dados: grimon@gmail.com
+May 03, 2023 2:27:15 PM pacote.Teste main
+INFO: Senha inserida no banco de dados: 333
+May 03, 2023 2:27:15 PM pacote.Teste main
+INFO: Usuários registrados no banco de dados: SELECT * FROM conta
+May 03, 2023 2:27:15 PM pacote.Teste main
+INFO: Aplicação executada e encerrada com sucesso
+May 03, 2023 2:50:51 PM pacote.Teste main
+WARNING: Aplicação JDBC iniciada
+May 03, 2023 2:50:51 PM pacote.Teste main
+INFO: Dado seguimento da ferramenta para inserção de usuários no banco de dados
+May 03, 2023 2:51:46 PM pacote.Teste main
+INFO: Usuário inserido no banco de dados: criatividade
+May 03, 2023 2:51:59 PM pacote.Teste main
+INFO: E-mail inserido no banco de dados: criatividade@outlook.com
+May 03, 2023 2:52:09 PM pacote.Teste main
+INFO: Senha inserida no banco de dados: 123
+May 03, 2023 2:52:09 PM pacote.Teste main
+INFO: Usuários registrados no banco de dados: SELECT * FROM conta
+May 03, 2023 2:52:09 PM pacote.Teste main
+INFO: Aplicação executada e encerrada com sucesso
+May 03, 2023 3:44:45 PM pacote.Teste main
+WARNING: Aplicação JDBC iniciada
+May 03, 2023 3:44:45 PM pacote.Teste main
+INFO: Dado seguimento da ferramenta para inserção de usuários no banco de dados
+May 03, 2023 3:44:53 PM pacote.Teste main
+INFO: Usuário inserido no banco de dados: teste
+May 03, 2023 3:45:02 PM pacote.Teste main
+INFO: E-mail inserido no banco de dados: teste@teste.com
+May 03, 2023 3:45:06 PM pacote.Teste main
+INFO: Senha inserida no banco de dados: teste1
+May 03, 2023 3:45:06 PM pacote.Teste main
+INFO: Usuário registrado no banco de dados com sucesso:testeteste@teste.comteste1
+May 03, 2023 3:45:06 PM pacote.Teste main
+INFO: Aplicação executada e encerrada com sucesso
+May 03, 2023 3:45:56 PM pacote.Teste main
+WARNING: Aplicação JDBC iniciada
+May 03, 2023 3:45:57 PM pacote.Teste main
+INFO: Dado seguimento da ferramenta para inserção de usuários no banco de dados
+May 03, 2023 3:46:03 PM pacote.Teste main
+INFO: Usuário inserido no banco de dados: teste2
+May 03, 2023 3:46:12 PM pacote.Teste main
+INFO: E-mail inserido no banco de dados: teste2@teste.com
+May 03, 2023 3:46:17 PM pacote.Teste main
+INFO: Senha inserida no banco de dados: test2
+May 03, 2023 3:46:17 PM pacote.Teste main
+INFO: Usuário registrado no banco de dados com sucesso: teste2 teste2@teste.com test2
+May 03, 2023 3:46:17 PM pacote.Teste main
+INFO: Aplicação executada e encerrada com sucesso
