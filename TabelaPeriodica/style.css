@@ -1,0 +1,278 @@
+:root{
+    --n-metal: rgb(156, 149, 149);
+    --n-metal-h: rgb(179, 215, 107);
+    --m-transicao: rgb(86, 83, 83);
+    --m-transicao-h: rgb(242, 176, 177);
+    --m-alcalinos: rgb(180, 176, 176);
+    --m-alcalinos-h: rgb(246, 202, 95);
+    --m-alcalinos-t: rgb(120, 117, 117);
+    --m-alcalinos-t-h: rgb(239, 230, 91);
+    --halogenios: rgb(167, 151, 151);
+    --halogenios-h: rgb(169, 224, 244);
+    --s-metais: rgb(96, 95, 95);
+    --s-metais-h: rgb(110, 197, 189);
+    --ot-metais:rgb(73, 67, 67);
+    --ot-metais-h: rgb(163, 199, 211);
+    --g-nobres: rgb(199, 190, 190);
+    --g-nobres-h: rgb(103, 177, 222);
+    --lantanideos: rgb(183, 166, 166);
+    --lantanideos-h: rgb(151, 215, 225);
+    --actinidios: rgb(78, 69, 69);
+    --actinidios-h: rgb(228, 189, 218);
+}
+
+.metais-transicao{
+    background-color: var(--m-transicao);
+}
+
+.metais-transicao:hover{
+    background-color: var(--m-transicao-h);
+    cursor: pointer;
+    transform: scale(1.2);
+    z-index: +1;
+}
+
+.n-metais{
+    background-color: var(--n-metal);
+}
+
+.n-metais:hover{
+    background-color: var(--n-metal-h);
+    cursor: pointer;
+    transform: scale(1.2);
+    z-index: +1;
+}
+
+.metais-alcalinos{
+    background-color: var(--m-alcalinos);
+}
+
+.metais-alcalinos:hover{
+    background-color: var(--m-alcalinos-h);
+    cursor: pointer;
+    transform: scale(1.2);
+    z-index: +1;
+}
+
+.metais-alcalinos-t{
+    background-color: var(--m-alcalinos-t);
+}
+
+.metais-alcalinos-t:hover{
+    background-color: var(--m-alcalinos-t-h);
+    cursor: pointer;
+    transform: scale(1.2);
+    z-index: +1;
+}
+
+.halogenios{
+    background-color: var(--halogenios);
+}
+
+.halogenios:hover{
+    background-color: var(--halogenios-h);
+    cursor: pointer;
+    transform: scale(1.2);
+    z-index: +1;
+}
+
+.semi-metais{
+    background-color: var(--s-metais);
+}
+
+.semi-metais:hover{
+    background-color: var(--s-metais-h);
+    cursor: pointer;
+    transform: scale(1.2);
+    z-index: +1;
+}
+
+.outros-metais{
+    background-color: var(--ot-metais);
+}
+
+.outros-metais:hover{
+    background-color: var(--ot-metais-h);
+    cursor: pointer;
+    transform: scale(1.2);
+    z-index: +1;
+}
+
+.lantanideos{
+    background-color: var(--lantanideos);
+}
+
+.lantanideos:hover{
+    background-color: var(--lantanideos-h);
+    cursor: pointer;
+    transform: scale(1.2);
+    z-index: +1;
+}
+
+.actinidios{
+    background-color: var(--actinidios);
+}
+
+.actinidios:hover{
+    background-color: var(--actinidios-h);
+    cursor: pointer;
+    transform: scale(1.2);
+    z-index: +1;
+}
+
+.gases-nobres{
+    background-color: var(--g-nobres);
+}
+
+.gases-nobres:hover{
+    background-color: var(--g-nobres-h);
+    cursor: pointer;
+    transform: scale(1.2);
+    z-index: +1;
+}
+
+.l-n-metais{
+    background-color: var(--n-metal-h);
+}
+
+.l-metais-alcalinos{
+    background-color: var(--m-alcalinos-h);
+}
+
+.l-metais-alcalinos-t{
+    background-color: var(--m-alcalinos-t-h);
+}
+
+.l-metais-transicao{
+    background-color: var(--m-transicao-h);
+}
+
+.l-outros-metais{
+    background-color: var(--ot-metais-h);
+}
+
+.l-semi-metais{
+    background-color: var(--s-metais-h);
+}
+
+.l-gases-nobres{
+    background-color: var(--g-nobres-h);
+}
+
+.l-halogenios{
+    background-color: var(--halogenios-h);
+}
+
+.l-Actinidios{
+    background-color: var(--actinidios-h);
+}
+
+.l-lantanideos{
+    background-color: var(--lantanideos-h);
+}
+
+/*======================cores=================*/
+
+*{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding-bottom: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+th{
+    padding: 10px 0 10px 0;
+}
+
+td{
+    margin: 0;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    border: 1px solid rgb(111, 85, 85);
+}
+
+h1, p{
+    text-align: center;
+}
+p{
+    font-size: 12px;
+}
+
+span{
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 5px 0 0 5px;
+    font-size: 12px;
+}
+.titulo{
+    padding: 20px 0 0 0 ;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.cabecalho{
+    padding-bottom: 20px;
+}
+
+.elementovazio{
+    font-size: 0;
+    border: none;
+}
+.cube{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+   padding: 15px;
+   margin-bottom: 30px;
+}
+
+.legenda caption{
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+.legenda td{
+    border: none;
+    padding: 2px 8px;
+    }
+.lista caption{
+    font-size: 24px;
+    padding: 30px 0 0 0
+}
+.lista th{
+    padding: 30px ;
+}
+.lista td{
+border: none;
+text-align: center;
+padding: 0;
+height: 30px;
+}
+
+
+button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: +1;
+}
+button{
+    position: fixed;
+    right: 8px;
+    bottom: 8px;
+    padding: 8px;
+    border: none;
+    color: white;
+    background-color: black;
+}
